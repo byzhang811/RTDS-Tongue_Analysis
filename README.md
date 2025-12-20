@@ -54,7 +54,11 @@ Our **Two-Stage** strategy significantly outperforms standard end-to-end models 
 | Two-Stage Baseline | ResNet-34 | **Clean ROIs (Stage 1)** | 66.03% |
 | **RTDS (Ours)** | **Swin-Hybrid** | **Clean ROIs (Stage 1)** | **75.76%** |
 
-> **Key Insight:** > 1. **Stage 1 Matters:** Removing background noise via our U-Net++ module improves accuracy by over **10%** (55.48% → 66.03%).
+> **Key Insight:**
+
+> 1. **Stage 1 Matters:** Removing background noise via our U-Net++ module improves accuracy by over **10%** (55.48% → 66.03%).
+
+
 > 2. **Swin-Hybrid Matters:** Our hybrid architecture further boosts performance by nearly **10%** over the CNN baseline (66.03% → 75.76%).
 
 ## Figure
