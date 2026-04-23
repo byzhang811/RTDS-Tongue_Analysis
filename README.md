@@ -3,8 +3,9 @@
 **Official PyTorch Implementation**
 
 **Authors:** Boyang Zhang (Boston University)  
-**Paper:** *RTDS: A Robust Two-Stage Tongue Diagnosis System with U-Net++ Segmentation and Swin-Hybrid Classification* Published by Signal, Image and Video Processing(SIVP)
-
+**Paper:** *RTDS: A Robust Two-Stage Tongue Diagnosis System with U-Net++ Segmentation and Swin-Hybrid Classification* 
+Published by Signal, Image and Video Processing(SIVP)
+Link: https://doi.org/10.1007/s11760-026-05316-3
 ---
 
 ## 📖 Introduction
